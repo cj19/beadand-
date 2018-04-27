@@ -1,0 +1,7 @@
+E:\Stuffs\OE\Prog. 2\beadandó\Futárcég\Futárcég\Futárcég\bin\Debug\Futárcég.exe.config
+E:\Stuffs\OE\Prog. 2\beadandó\Futárcég\Futárcég\Futárcég\bin\Debug\Futárcég.exe
+E:\Stuffs\OE\Prog. 2\beadandó\Futárcég\Futárcég\Futárcég\bin\Debug\Futárcég.pdb
+E:\Stuffs\OE\Prog. 2\beadandó\Futárcég\Futárcég\Futárcég\obj\Debug\Futárcég.csprojResolveAssemblyReference.cache
+E:\Stuffs\OE\Prog. 2\beadandó\Futárcég\Futárcég\Futárcég\obj\Debug\Futárcég.csproj.CoreCompileInputs.cache
+E:\Stuffs\OE\Prog. 2\beadandó\Futárcég\Futárcég\Futárcég\obj\Debug\Futárcég.exe
+E:\Stuffs\OE\Prog. 2\beadandó\Futárcég\Futárcég\Futárcég\obj\Debug\Futárcég.pdb
